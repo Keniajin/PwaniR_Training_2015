@@ -1,4 +1,4 @@
-Introduction to Statistical Methods using R and RStudio - 2015
+Introduction to Statistical Methods using R and RStudio - Updated 2017
 ================================
 
 This sites shows the contents of the course done on Feb 2014 at Pwani University.
